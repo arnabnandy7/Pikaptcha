@@ -293,3 +293,6 @@ Please let us know what your issue is, instead of just saying it doesnt work. Co
 - 2 Captcha login https://2captcha.com/auth/login
 
 - Email verify script by Sebastienvercammen https://gist.github.com/sebastienvercammen/e7e0e9e57db246d7f941b789d8508186
+
+
+<!-- GitAds-Verify: I9UE7QKEL734K5KEC5LW9FMDMXX11WTW -->
